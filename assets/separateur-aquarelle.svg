@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90" viewBox="0 0 1200 90">
+<defs>
+ <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+ <linearGradient id="gold" x1="0" x2="1"><stop stop-color="#E0B45B" stop-opacity="0"/><stop offset=".2" stop-color="#E0B45B"/><stop offset=".8" stop-color="#E0B45B"/><stop offset="1" stop-color="#E0B45B" stop-opacity="0"/></linearGradient>
+</defs>
+<ellipse cx="220" cy="46" rx="210" ry="30" fill="#BFA7FF" opacity=".25" filter="url(#blur)"/>
+<ellipse cx="980" cy="43" rx="205" ry="30" fill="#FFB5C4" opacity=".24" filter="url(#blur)"/>
+<path d="M130 45H1070" stroke="url(#gold)" stroke-width="1.5"/>
+<path d="M600 34l3.2 7.8L611 45l-7.8 3.2L600 56l-3.2-7.8L589 45l7.8-3.2z" fill="#E0B45B"/>
+</svg>
