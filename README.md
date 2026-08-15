@@ -1,98 +1,82 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/celberthon33/celberthon33/main/assets/banner-cbcs-charte-officielle.png" width="100%" alt="CB Conseils & Synergie — Céline Berthon">
+<img src="https://raw.githubusercontent.com/celberthon33/celberthon33/main/assets/Print_Transparent.svg" width="520" alt="Logo CB Conseils & Synergie">
 
-<br>
+# Transformer la complexité en organisation,  
+# et l’organisation en sérénité.
 
-### Des besoins pédagogiques complexes. Des solutions claires, fiables et vraiment utilisables.
+### Une expertise opérationnelle, directement mobilisable
 
-J’accompagne les **organismes de formation** et leurs équipes dans la structuration,  
-la sécurisation et l’amélioration de leurs activités.
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Me%20contacter-6E3A78?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celberthon/)
-[![E-mail](https://img.shields.io/badge/E--mail-Échanger-F2AD55?style=for-the-badge&logo=gmail&logoColor=3D1D4A)](mailto:celberthon.pro@gmail.com)
+J’accompagne les établissements d’enseignement, les organismes de formation et les CFA dans la structuration de leur organisation, la sécurisation de leurs certifications et la gestion de besoins opérationnels ponctuels.
 
 </div>
 
 ---
 
-## Mon terrain de jeu professionnel
+## Mes trois axes d’intervention
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🧭 Piloter
+### 01 · Organisation pédagogique
 
-Organisation des parcours, planification, suivi des apprenants et coordination des intervenants.
-
-</td>
-<td width="33%" valign="top">
-
-### 🛡️ Sécuriser
-
-Sessions de certification, jurys, livrables, procédures et conformité des parcours RNCP.
+Structurer les calendriers, les procédures, les outils de suivi et les temps forts afin de fluidifier l’activité pédagogique et administrative.
 
 </td>
 <td width="33%" valign="top">
 
-### ⚡ Automatiser
+### 02 · Certifications professionnelles
 
-Outils de suivi, tableaux de bord et automatisations simples avec Excel, Microsoft 365 et Office Scripts.
+Préparer, sécuriser et déployer les sessions et dispositifs de certification, de la planification jusqu’aux jurys.
+
+</td>
+<td width="33%" valign="top">
+
+### 03 · Assistance & renfort
+
+Absorber une charge ponctuelle ou prendre en charge des tâches administratives ciblées selon les besoins de la structure.
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+---
 
-![Coordination pédagogique](https://img.shields.io/badge/Coordination_pédagogique-54265F?style=flat-square)
-![Certifications RNCP](https://img.shields.io/badge/Certifications_RNCP-8B3D72?style=flat-square)
-![Optimisation des processus](https://img.shields.io/badge/Optimisation_des_processus-C36A78?style=flat-square)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
-![Office Scripts](https://img.shields.io/badge/Office_Scripts-F3A84B?style=flat-square)
+## Ce que je vous apporte
 
-</div>
+- **Un cadre plus structuré**  
+  Des règles, des outils et des échéances rendus lisibles et partagés.
 
-## CB Conseils & Synergie
+- **Une expertise immédiatement mobilisable**  
+  Une prise en main rapide des enjeux propres aux structures de formation.
 
-Avec plus de **six ans d’expérience** en coordination pédagogique, pilotage de certifications et accompagnement des apprenants, je transforme les réalités du terrain en solutions concrètes, structurées et transmissibles.
+- **Une réduction des risques**  
+  Des contrôles, rétroplannings et procédures qui limitent les oublis, les urgences et les pertes d’information.
 
-Mon parcours dans le développement web me permet de faire le lien entre les besoins métier et les possibilités techniques, sans transformer chaque problème en usine à gaz. Le dragon Excel est déjà bien assez susceptible comme ça.
+- **Des solutions réellement utilisables**  
+  Des livrables adaptés au fonctionnement et aux contraintes de votre structure.
 
-### Ma façon de travailler
+---
 
-✅ Partir des usages réels, pas d’un outil imposé  
-✅ Simplifier sans appauvrir  
-✅ Documenter pour rendre les équipes autonomes  
-✅ Respecter les contraintes humaines, pédagogiques et réglementaires  
-✅ Concevoir des solutions faciles à maintenir  
+## À propos de moi
 
-## Bientôt dans cette vitrine
+Je suis **Céline Berthon**, consultante indépendante et fondatrice de **CB Conseils & Synergie**.
 
-| Ressources et démonstrations | Objectif |
-|---|---|
-| 🎓 Automatisation du suivi pédagogique | Fiabiliser les informations et gagner du temps |
-| 🤝 Gestion des stages et conventions | Fluidifier le suivi administratif |
-| 🏅 Pilotage des certifications | Sécuriser les étapes, pièces et échéances |
-| 📊 Tableaux de bord | Rendre les données immédiatement exploitables |
-| ⚙️ Office Scripts | Automatiser les tâches répétitives de Microsoft 365 |
+Je m’appuie sur plus de six ans d’expérience dans la coordination pédagogique, le pilotage de dispositifs de titres professionnels et l’organisation de sessions de certification.
 
-> Tous les exemples publiés ici utiliseront des données fictives et seront pensés pour être compris, adaptés et réutilisés.
+Mon parcours dans le développement web me permet également de faire le lien entre les besoins métier et les possibilités techniques, notamment pour concevoir ou optimiser des outils de pilotage et de suivi simples, fiables et maintenables.
 
 ---
 
 <div align="center">
 
-### Une organisation pédagogique peut être exigeante sans être inutilement compliquée.
+## Un projet, un besoin, un accompagnement sur mesure
 
-**Vous avez un processus à structurer, sécuriser ou automatiser ?**
+Échangeons sur les enjeux de votre structure.
 
-[![Parlons-en](https://img.shields.io/badge/Parlons--en-CB_Conseils_%26_Synergie-F3A84B?style=for-the-badge)](mailto:celberthon.pro@gmail.com)
+[**LinkedIn**](https://www.linkedin.com/in/celberthon33/) · [**E-mail**](mailto:celberthon.pro@gmail.com)
 
-<sub>CB Conseils & Synergie · Pédagogie · Organisation · Technologie</sub>
+<sub>CB Conseils & Synergie · Organisation pédagogique · Certifications professionnelles · Assistance & renfort</sub>
 
 </div>
