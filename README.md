@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/celberthon33/celberthon33/main/assets/banner-cbcs.svg" width="100%" alt="CB Conseils & Synergie — Céline Berthon">
+<img src="https://raw.githubusercontent.com/celberthon33/celberthon33/main/assets/banner-cbcs.png" width="100%" alt="CB Conseils & Synergie — Céline Berthon">
 
 <br>
 
