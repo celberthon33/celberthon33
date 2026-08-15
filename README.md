@@ -8,8 +8,6 @@
 
 J’accompagne les établissements d’enseignement, les organismes de formation et les CFA dans la structuration de leur organisation, la sécurisation de leurs certifications et la gestion de besoins opérationnels ponctuels.
 
-<img src="https://raw.githubusercontent.com/celberthon33/celberthon33/main/assets/separateur-aquarelle.svg" width="100%" alt="">
-
 </div>
 
 ## Mes trois axes d’intervention
@@ -42,10 +40,6 @@ J’accompagne les établissements d’enseignement, les organismes de formation
 > ✦ **Des solutions réellement utilisables**  
 > Des livrables adaptés au fonctionnement et aux contraintes de votre structure.
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/celberthon33/celberthon33/main/assets/separateur-aquarelle.svg" width="100%" alt="">
-</div>
-
 ## À propos de moi
 
 Je suis **Céline Berthon**, consultante indépendante et fondatrice de **CB Conseils & Synergie**.
@@ -55,8 +49,6 @@ Je m’appuie sur plus de six ans d’expérience dans la coordination pédagogi
 Mon parcours dans le développement web me permet également de faire le lien entre les besoins métier et les possibilités techniques, notamment pour concevoir ou optimiser des outils de pilotage et de suivi simples, fiables et maintenables.
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/celberthon33/celberthon33/main/assets/separateur-aquarelle.svg" width="100%" alt="">
 
 ## Un projet, un besoin, un accompagnement sur mesure
 
