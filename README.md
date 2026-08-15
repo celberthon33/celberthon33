@@ -2,8 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/celberthon33/celberthon33/main/assets/Print_Transparent.svg" width="520" alt="Logo CB Conseils & Synergie">
 
-# Transformer la complexité en organisation,  
-# et l’organisation en sérénité.
+# Transformer la complexité en organisation et l’organisation en sérénité.
 
 ### Une expertise opérationnelle, directement mobilisable
 
@@ -65,7 +64,7 @@ Mon parcours dans le développement web me permet également de faire le lien en
 
 <a href="mailto:celberthon.pro@gmail.com"><img src="https://raw.githubusercontent.com/celberthon33/celberthon33/main/assets/bouton-email.svg" width="205" alt="Me contacter par e-mail"></a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/celberthon/"><img src="https://raw.githubusercontent.com/celberthon33/celberthon33/main/assets/bouton-linkedin.svg" width="205" alt="Voir mon profil LinkedIn"></a>
+<a href="https://www.linkedin.com/in/celberthon/" target="_blank"><img src="https://raw.githubusercontent.com/celberthon33/celberthon33/main/assets/bouton-linkedin.svg" width="205" alt="Voir mon profil LinkedIn"></a>
 
 <br><br>
 
