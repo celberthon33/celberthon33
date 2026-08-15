@@ -75,7 +75,7 @@ Mon parcours dans le développement web me permet également de faire le lien en
 
 Échangeons sur les enjeux de votre structure.
 
-[**LinkedIn**](https://www.linkedin.com/in/celberthon33/) · [**E-mail**](mailto:celberthon.pro@gmail.com)
+[**LinkedIn**](https://www.linkedin.com/in/celberthon/) · [**E-mail**](mailto:celberthon.pro@gmail.com)
 
 <sub>CB Conseils & Synergie · Organisation pédagogique · Certifications professionnelles · Assistance & renfort</sub>
 
