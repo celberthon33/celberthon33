@@ -11,7 +11,7 @@ la sécurisation et l’amélioration de leurs activités.
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Me%20contacter-6E3A78?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celberthon33/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Me%20contacter-6E3A78?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celberthon/)
 [![E-mail](https://img.shields.io/badge/E--mail-Échanger-F2AD55?style=for-the-badge&logo=gmail&logoColor=3D1D4A)](mailto:celberthon.pro@gmail.com)
 
 </div>
