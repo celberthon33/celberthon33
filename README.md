@@ -6,8 +6,7 @@
 
 **STRUCTURER** &nbsp;•&nbsp; **SÉCURISER** &nbsp;•&nbsp; **FLUIDIFIER**
 
-# Transformer la complexité en organisation,  
-# et l’organisation en sérénité.
+# Transformer la complexité en organisation, et l’organisation en sérénité.
 
 ### Conseil en organisation pédagogique, certifications professionnelles et renfort administratif
 
