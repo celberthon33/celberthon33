@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/celberthon33/celberthon33/main/assets/Print_Transparent.svg" width="500" alt="Logo CB Conseils & Synergie">
+<img src="https://raw.githubusercontent.com/celberthon33/celberthon33/main/assets/Print_Transparent.svg?v=site-2026" width="500" alt="Logo CB Conseils & Synergie">
 
 <br>
 
@@ -22,13 +22,13 @@ J’accompagne les organismes de formation, les CFA et les établissements d’e
 <table>
 <tr>
 <td width="33%" valign="top">
-<img src="https://raw.githubusercontent.com/celberthon33/celberthon33/main/assets/axe-certifications.svg" width="100%" alt="01 · Certification professionnelle : préparer et sécuriser les sessions, coordonner les jurys et veiller au respect des exigences réglementaires.">
+<img src="https://raw.githubusercontent.com/celberthon33/celberthon33/main/assets/axe-certifications.svg?v=site-2026" width="100%" alt="01 · Certification professionnelle : préparer et sécuriser les sessions, coordonner les jurys et veiller au respect des exigences réglementaires.">
 </td>
 <td width="33%" valign="top">
-<img src="https://raw.githubusercontent.com/celberthon33/celberthon33/main/assets/axe-organisation.svg" width="100%" alt="02 · Organisation pédagogique : structurer les formations, coordonner les intervenants et suivre les parcours, projets et évaluations.">
+<img src="https://raw.githubusercontent.com/celberthon33/celberthon33/main/assets/axe-organisation.svg?v=site-2026" width="100%" alt="02 · Organisation pédagogique : structurer les formations, coordonner les intervenants et suivre les parcours, projets et évaluations.">
 </td>
 <td width="33%" valign="top">
-<img src="https://raw.githubusercontent.com/celberthon33/celberthon33/main/assets/axe-assistance.svg" width="100%" alt="03 · Renfort administratif : prendre en charge les dossiers, créer des outils de suivi et apporter un renfort ponctuel ou récurrent.">
+<img src="https://raw.githubusercontent.com/celberthon33/celberthon33/main/assets/axe-assistance.svg?v=site-2026" width="100%" alt="03 · Renfort administratif : prendre en charge les dossiers, créer des outils de suivi et apporter un renfort ponctuel ou récurrent.">
 </td>
 </tr>
 </table>
@@ -91,9 +91,9 @@ Une échéance à sécuriser, une organisation à structurer ou un renfort ponct
 
 <br>
 
-<a href="mailto:celberthon.pro@gmail.com"><img src="https://raw.githubusercontent.com/celberthon33/celberthon33/main/assets/bouton-email.svg" width="215" alt="Présenter mon besoin par e-mail"></a>
+<a href="mailto:celberthon.pro@gmail.com"><img src="https://raw.githubusercontent.com/celberthon33/celberthon33/main/assets/bouton-email.svg?v=site-2026" width="215" alt="Présenter mon besoin par e-mail"></a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/celberthon/"><img src="https://raw.githubusercontent.com/celberthon33/celberthon33/main/assets/bouton-linkedin.svg" width="215" alt="Voir mon profil LinkedIn"></a>
+<a href="https://www.linkedin.com/in/celberthon/"><img src="https://raw.githubusercontent.com/celberthon33/celberthon33/main/assets/bouton-linkedin.svg?v=site-2026" width="215" alt="Voir mon profil LinkedIn"></a>
 
 <br><br>
 
