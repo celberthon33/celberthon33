@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="380" height="220" viewBox="0 0 380 220">
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#3B168C"/><stop offset=".52" stop-color="#7C2CFF"/><stop offset="1" stop-color="#FF6B8A"/></linearGradient></defs>
-<rect x="2" y="2" width="376" height="216" rx="20" fill="#FFF7F2" stroke="#E8DDF6" stroke-width="2"/>
-<circle cx="48" cy="48" r="24" fill="url(#g)"/><text x="48" y="55" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="white">03</text>
-<text x="28" y="100" font-family="Georgia,serif" font-size="23" fill="#3B168C">Assistance &amp; renfort</text>
-<path d="M28 118H132" stroke="url(#g)" stroke-width="4" stroke-linecap="round"/>
-<text x="28" y="150" font-family="Arial,sans-serif" font-size="15" fill="#4A4054"><tspan x="28">Absorber une charge ponctuelle ou des</tspan><tspan x="28" dy="23">tâches administratives ciblées.</tspan></text>
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="224" viewBox="0 0 380 224">
+<rect x="3" y="3" width="374" height="218" rx="24" fill="#FFFAF7" stroke="#F46D70" stroke-opacity=".28" stroke-width="2"/>
+<circle cx="48" cy="48" r="24" fill="#F46D70"/><text x="48" y="55" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" fill="#fff">03</text>
+<path d="M295 22h46a17 17 0 0 1 17 17v46" fill="none" stroke="#C9934E" stroke-width="2" opacity=".65"/>
+<text x="28" y="103" font-family="Georgia,serif" font-size="22" fill="#24164F">Renfort administratif</text>
+<path d="M28 120h88" stroke="#F46D70" stroke-width="3" stroke-linecap="round"/>
+<text x="28" y="153" font-family="Segoe UI,Arial,sans-serif" font-size="14.5" fill="#625B73"><tspan x="28">Prendre en charge vos dossiers, créer</tspan><tspan x="28" dy="22">des outils de suivi et apporter un renfort</tspan><tspan x="28" dy="22">ponctuel ou récurrent.</tspan></text>
 </svg>
