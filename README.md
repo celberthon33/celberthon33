@@ -159,7 +159,7 @@ Une question, un projet ou simplement envie de parler organisation, formation ou
 
 <br>
 
-<a href="mailto:celberthon.pro@gmail.com"><img src="https://raw.githubusercontent.com/celberthon33/celberthon33/main/assets/bouton-email.svg?v=site-2026" width="215" alt="Me contacter par e-mail"></a>
+<a href="mailto:celine@cb-conseils-synergie.fr"><img src="https://raw.githubusercontent.com/celberthon33/celberthon33/main/assets/bouton-email.svg?v=site-2026" width="215" alt="Me contacter par e-mail"></a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/celberthon/"><img src="https://raw.githubusercontent.com/celberthon33/celberthon33/main/assets/bouton-linkedin.svg?v=site-2026" width="215" alt="Voir mon profil LinkedIn"></a>
 
